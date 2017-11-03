@@ -1,0 +1,19 @@
+{
+  "filename" : "pic2_063.jpg",
+  "folder" : "Aeron",
+  "image_w_h" : [
+    211,
+    295
+  ],
+  "objects" : [
+    {
+      "label" : "lever",
+      "x_y_w_h" : [
+        50,
+        180,
+        30,
+        17
+      ]
+    }
+  ]
+}
