@@ -1,0 +1,19 @@
+{
+  "filename" : "IMG_1322.jpg",
+  "folder" : "Aeron",
+  "image_w_h" : [
+    3024,
+    4032
+  ],
+  "objects" : [
+    {
+      "label" : "pellicle",
+      "x_y_w_h" : [
+        1337,
+        513,
+        1364,
+        1166
+      ]
+    }
+  ]
+}

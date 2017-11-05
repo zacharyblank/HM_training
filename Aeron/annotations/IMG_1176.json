@@ -1,0 +1,28 @@
+{
+  "filename" : "IMG_1176.jpg",
+  "folder" : "Aeron",
+  "image_w_h" : [
+    3024,
+    4032
+  ],
+  "objects" : [
+    {
+      "label" : "pellicle",
+      "x_y_w_h" : [
+        696,
+        288,
+        1445,
+        933
+      ]
+    },
+    {
+      "label" : "lever",
+      "x_y_w_h" : [
+        724,
+        2390,
+        233,
+        139
+      ]
+    }
+  ]
+}

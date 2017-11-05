@@ -7,6 +7,15 @@
   ],
   "objects" : [
     {
+      "label" : "pellicle",
+      "x_y_w_h" : [
+        396,
+        385,
+        1505,
+        1124
+      ]
+    },
+    {
       "label" : "lever",
       "x_y_w_h" : [
         962,
